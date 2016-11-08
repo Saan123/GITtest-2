@@ -11,6 +11,7 @@ namespace GITtest_2
         static void Main(string[] args)
         {
             Console.WriteLine("Msaster test");
+            Console.WriteLine("JEg er på develop");
         }
     }
 }
